@@ -1,0 +1,5 @@
+Utilize os algoritmos de Random Forest, kNN e SVM para identificar espécies de Iris (setosa, versicolor ou virginica) no dataset. As características dos atributos estão disponíveis em:
+
+https://www.kaggle.com/datasets/uciml/iris
+
+Mostre a acurácia dos três algoritmos.
